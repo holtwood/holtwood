@@ -113,7 +113,7 @@
   </tr>
 </table>
 
-<h4>🚀 AI Infra Portfolio / AI Infra 五仓作品集（open-infra-ai）</h4>
+<h4>🚀 AI Infra Portfolio / AI Infra 作品集（open-infra-ai）</h4>
 
 <blockquote>
   <b>Original, sole-authored engineering portfolio</b> — from CUDA kernels to a working inference engine, with tests, benchmarks & honest measurement records.<br/>
@@ -149,18 +149,29 @@
       <p>Portfolio landing page: evidence pack, benchmarks methodology & interview storytelling<br/>作品集入口：证据包、基准口径与项目讲述</p>
     </td>
   </tr>
+  <tr>
+    <td width="33%">
+      <h4><a href="https://github.com/open-infra-ai/kvtier">🔬 kvtier</a></h4>
+      <p>Upstream research on SGLang HiCache KV tiering; audited L2 reload experiments<br/>KV Cache 分层卸载上游研究与可审计复现实验</p>
+    </td>
+    <td width="33%">
+      <h4><a href="https://github.com/open-infra-ai/ai-infra-radar">📡 ai-infra-radar</a></h4>
+      <p>Ecosystem workbench: issue/discussion discovery, triage & participation tracking<br/>AI Infra 生态工作台：上游 issue 发现与贡献追踪</p>
+    </td>
+    <td width="33%"></td>
+  </tr>
 </table>
 
-<h4>🎯 AI Infra Career Transition / AI Infra 转行计划</h4>
+<h4>🏁 Racing & Index / 性能赛事与索引</h4>
 
 <table>
   <tr>
     <td width="50%">
-      <h4><a href="https://github.com/open-infra-ai/ai-infra-interview-prep">📋 AI Infra Interview Prep</a></h4>
-      <p>12-week AI Infra transition plan (2026-08-24 ~ 2026-11-15): skill matrix, weekly plans, interview matrix & application pipeline.<br/>12 周 AI Infra 转行计划：能力矩阵、逐周计划、面试矩阵与求职执行</p>
+      <h4><a href="https://github.com/holtwood/race">🏁 race — Performance Racing Lab</a></h4>
+      <p>Performance-engineering competition lab: Speed Demon tracks, 1BRC, Aalto PPC, DIMACS shortest paths, AHC. Every number bound to hardware & evidence.<br/>性能工程竞赛实验室：Speed Demon 四赛道、1BRC、PPC、DIMACS 最短路、AHC；数字绑定硬件与证据。另有 CANN 昇腾算子赛（电力专场/天梯赛/挑战赛）、FlagOS S2、Muse Spark Open Kernel Challenge 进行中，参赛工作区赛期私有。</p>
       <p>
-        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
-        <img src="https://img.shields.io/badge/LLM_Inference-0077B6?style=flat-square" alt="LLM Inference" />
+        <img src="https://img.shields.io/badge/Performance-2A9D8F?style=flat-square" alt="Performance" />
+        <img src="https://img.shields.io/badge/Racing-E76F51?style=flat-square" alt="Racing" />
       </p>
     </td>
     <td width="50%">
