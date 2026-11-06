@@ -1,5 +1,5 @@
 title: holtwood
-description: AI Infrastructure & HPC Developer — CUDA Kernels, LLM Inference, Systems Programming
+description: AI Infra / HPC systems — CUDA kernels, LLM inference, serving control planes, reproducible performance evidence
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme

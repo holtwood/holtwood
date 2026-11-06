@@ -1,10 +1,18 @@
 # Changelog
 
+## 2026-11-06
+- Profile README 从“仓库总目录”收敛为三层入口：身份与方向、三个公开组织、代表项目
+- 组织架构定稿：`holtwood-systems`（原创系统）、`holtwood-arena`（比赛与 benchmark）、`holtwood-forks`（上游研读）
+- 个人主页不再链接私有面试包，不再使用过时测试数量；`ai-infra-serving-study-plan` 作为公开学习计划
+- 保留 2026-11-03 的 `kvtier` / `ai-infra-radar` / `race` 事实，但不再使用旧组织根链接
+- `index.md` 与 `_config.yml` 同步新定位；Pages 入口保留为轻量路标
+- 旧组织根 `open-infra-ai` / `cannjudge` 不再作为公开入口；仓库级旧 URL 仅作 301 重定向
+
 ## 2026-11-03
-- 修正"AI Infra 五仓作品集"为"AI Infra 作品集"：组织已扩至六技术仓 + 治理仓，展示表补充 kvtier 与 ai-infra-radar 两仓卡片
+- 修正“AI Infra 五仓作品集”为“AI Infra 作品集”：组织已扩至六技术仓 + 治理仓，展示表补充 kvtier 与 ai-infra-radar 两仓卡片
 - 移除已迁回个人私有仓的 `ai-infra-interview-prep` 外链（原 `open-infra-ai/ai-infra-interview-prep` 公开路径已失效）
-- 原"AI Infra 转行计划"区块改为"Racing & Index / 性能赛事与索引"：新增 [race](https://github.com/holtwood/race) 性能工程竞赛实验室卡片，并说明 CANN 昇腾算子赛、FlagOS S2、Muse Spark Open Kernel Challenge 进行中（参赛工作区赛期私有）
-- `index.md` 同步：作品集描述更新为"六技术仓 + 治理仓"，失效的 interview-prep 入口替换为 race，核心仓库表新增 race
+- 原“AI Infra 转行计划”区块改为“Racing & Index / 性能赛事与索引”：新增 race 性能工程竞赛实验室卡片
+- `index.md` 同步：作品集描述更新为“六技术仓 + 治理仓”，失效的 interview-prep 入口替换为 race
 
 ## 2026-10-19
 - 账号与仓库名收敛：`LessUp` 账号更名 `holtwood`、仓库更名 `holtwood`（仓库名与账号名一致）

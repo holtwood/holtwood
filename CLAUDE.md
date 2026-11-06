@@ -4,7 +4,7 @@
 
 ## 项目定位
 
-**GitHub Profile 主页仓库**（账号 `holtwood`，仓库名 `holtwood`）—— 个人主页与成果展示，呈现 AI Infrastructure / HPC 方向的项目、经历与技术栈。
+**GitHub Profile 主页仓库**（账号 `holtwood`，仓库名 `holtwood`）—— 个人主页与成果展示。前台只呈现身份、三个公开组织与代表项目；完整目录在 `repos-db`，项目总览在 `imshane.site/projects`。
 
 - 主页：<https://github.com/holtwood>
 - Pages 站点：<https://holtwood.github.io/holtwood/>
@@ -29,9 +29,9 @@ holtwood/
 ### README.md
 
 - 主页展示页，**不是代码文件**，而是视觉呈现文档
-- 大量使用徽章、统计组件、项目卡片等 GitHub Profile 特性
-- 章节：About / Now / Projects / Experience / Tech Stack / Stats / Contact
-- 中英双语：以英文为主，关键章节附中文
+- 英文为主，保留一句中文定位；不使用统计卡片、访问计数等易失效组件
+- 章节：Start here / Selected work / Competition work / Before systems / How I scope claims / Elsewhere
+- 三个公开组织：`holtwood-systems`、`holtwood-arena`、`holtwood-forks`；`open-genomics` 与 `holtwood-projects` 为旧主线
 
 ### CHANGELOG.md
 
