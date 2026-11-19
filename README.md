@@ -10,7 +10,7 @@ I care about the part after the benchmark: whether a performance claim survives 
 
 **Open to:** AI Infra / HPC / performance engineering roles and technical collaboration.
 
-[Website](https://imshane.site/projects) · [Systems](https://github.com/holtwood-systems) · [Arena](https://github.com/holtwood-arena) · [Forks](https://github.com/holtwood-forks) · [Genomics](https://github.com/open-genomics) · [Email](mailto:jiashuai.shi@qq.com)
+[Website](https://imshane.site/projects) · [Systems](https://github.com/holtwood-systems) · [Arena](https://github.com/holtwood-arena) · [Forks](https://github.com/holtwood-forks) · [Genomics](https://github.com/holtwood-genomics) · [Email](mailto:jiashuai.shi@qq.com)
 
 ---
 
@@ -24,7 +24,7 @@ Six accounts, five of them organizations. Each one answers a different question:
 | **Arena** | [holtwood-arena](https://github.com/holtwood-arena) | active | Competition and benchmark record: CANN / FlagOS / Kunpeng / Muse, plus the public `race` lab |
 | **Forks** | [holtwood-forks](https://github.com/holtwood-forks) | standing | Upstream reading copies and local patch branches. No original work claimed; not counted as portfolio |
 | **Projects** | [holtwood-projects](https://github.com/holtwood-projects) | archive | Earlier applications and tooling: web, GPU, systems and teaching implementations |
-| **Genomics** | [open-genomics](https://github.com/open-genomics) | archive | Prior mainline: FASTQ compression, alignment, bounded-memory pipelines in C++23 / Rust |
+| **Genomics** | [holtwood-genomics](https://github.com/holtwood-genomics) | archive | Prior mainline: FASTQ compression, alignment, bounded-memory pipelines in C++23 / Rust |
 | **Personal** | [holtwood](https://github.com/holtwood) | active | This profile, the repo map, dev environment, personal sites and small personal products |
 
 The curated entry point is **[imshane.site/projects](https://imshane.site/projects)**. GitHub is the implementation layer, not the only map.
@@ -61,7 +61,7 @@ Public workspaces: [kunpeng-s2-conv](https://github.com/holtwood-arena/kunpeng-s
 
 I came to AI infrastructure through genomics and real-time systems: BGI (genomic-scale data workflows), Mindray (medical imaging), ZEGO (RTC). That background is why I care about memory bounds, I/O behavior, and end-to-end latency — not just kernel microbenchmarks.
 
-The genomics work is archived under [open-genomics](https://github.com/open-genomics) in maintenance mode — FASTQ compression, alignment and bounded-memory pipelines in C++23 and Rust. The earlier application/tooling projects remain at [holtwood-projects](https://github.com/holtwood-projects).
+The genomics work is archived under [holtwood-genomics](https://github.com/holtwood-genomics) in maintenance mode — FASTQ compression, alignment and bounded-memory pipelines in C++23 and Rust. The earlier application/tooling projects remain at [holtwood-projects](https://github.com/holtwood-projects).
 
 Both archives are kept on purpose: a repo that was superseded by a better implementation is evidence of convergence, not clutter. The rules for what lives where, what gets promoted out of competitions, and what gets archived are in [repos-db/ARCHITECTURE.md](https://github.com/holtwood/repos-db/blob/main/ARCHITECTURE.md).
 

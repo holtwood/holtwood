@@ -31,7 +31,7 @@ holtwood/
 - 主页展示页，**不是代码文件**，而是视觉呈现文档
 - 英文为主，保留一句中文定位；不使用统计卡片、访问计数等易失效组件
 - 章节：Start here / Selected work / Competition work / Before systems / How I scope claims / Elsewhere
-- 三个公开组织：`holtwood-systems`、`holtwood-arena`、`holtwood-forks`；`open-genomics` 与 `holtwood-projects` 为旧主线
+- 三个公开组织：`holtwood-systems`、`holtwood-arena`、`holtwood-forks`；`holtwood-genomics` 与 `holtwood-projects` 为旧主线
 
 ### CHANGELOG.md
 

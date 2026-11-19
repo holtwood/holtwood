@@ -29,7 +29,7 @@ AI Infra / HPC systems. 这个页面只做路标；完整项目索引在
 
 ## 旧主线
 
-- [open-genomics](https://github.com/open-genomics) — 生信系统软件，维护模式
+- [holtwood-genomics](https://github.com/holtwood-genomics) — 生信系统软件，维护模式
 - [holtwood-projects](https://github.com/holtwood-projects) — 早期应用与工具项目
 
 ## 入口
