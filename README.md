@@ -38,7 +38,7 @@ The curated entry point is **[imshane.site/projects](https://imshane.site/projec
 | [cuflash](https://github.com/holtwood-systems/cuflash) | FlashAttention from scratch in CUDA C++: scalar → WMMA tensor cores, FlashDecoding / Split-KV | kernel depth |
 | [trifuse](https://github.com/holtwood-systems/trifuse) | Fused Triton kernels (RMSNorm+RoPE, gated MLP, FlashAttention) registered through `torch.library` | kernel breadth + integration |
 | [cuda-foundations](https://github.com/holtwood-systems/cuda-foundations) | A reproducible CUDA operator path: SGEMM ladder → reusable kernels → inference components | teaching by construction |
-| [race](https://github.com/holtwood-arena/race) | Performance engineering lab: Speed Demon, 1BRC, PPC, DIMACS, AHC; every number bound to hardware and commit | competition discipline |
+| [perf-race-lab](https://github.com/holtwood-arena/perf-race-lab) | Performance engineering lab: Speed Demon, 1BRC, PPC, DIMACS, AHC; every number bound to hardware and commit | competition discipline |
 
 Full map: [holtwood-systems/portfolio](https://github.com/holtwood-systems/portfolio).
 
@@ -53,7 +53,7 @@ I use competitions as a forcing function for measurement discipline.
 - **FlagOS S2** — SGLang kernel optimization and MiniCPM5-2B inference throughput workspaces.
 - **Muse Spark Open Kernel Challenge** — kernel and serving tracks.
 
-Public workspaces: [kunpeng-s2-conv](https://github.com/holtwood-arena/kunpeng-s2-conv) · [kunpeng-s3-openfoam](https://github.com/holtwood-arena/kunpeng-s3-openfoam) · [race](https://github.com/holtwood-arena/race).
+Public workspaces: [kunpeng-s2-conv](https://github.com/holtwood-arena/kunpeng-s2-conv) · [kunpeng-s3-openfoam](https://github.com/holtwood-arena/kunpeng-s3-openfoam) · [perf-race-lab](https://github.com/holtwood-arena/perf-race-lab).
 
 > Competition rules and other teams' work are respected: private workspaces stay private while the rules require it; public pages carry only sanitized, reproducible material.
 
@@ -63,7 +63,7 @@ I came to AI infrastructure through genomics and real-time systems: BGI (genomic
 
 The genomics work is archived under [holtwood-genomics](https://github.com/holtwood-genomics) in maintenance mode — FASTQ compression, alignment and bounded-memory pipelines in C++23 and Rust. The earlier application/tooling projects remain at [holtwood-projects](https://github.com/holtwood-projects).
 
-Both archives are kept on purpose: a repo that was superseded by a better implementation is evidence of convergence, not clutter. The rules for what lives where, what gets promoted out of competitions, and what gets archived are in [repos-db/ARCHITECTURE.md](https://github.com/holtwood/repos-db/blob/main/ARCHITECTURE.md).
+Both archives are kept on purpose: a repo that was superseded by a better implementation is evidence of convergence, not clutter. The rules for what lives where, what gets promoted out of competitions, and what gets archived are in [repo-registry/ARCHITECTURE.md](https://github.com/holtwood/repo-registry/blob/main/ARCHITECTURE.md).
 
 ## How I scope claims
 

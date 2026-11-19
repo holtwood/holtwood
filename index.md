@@ -25,7 +25,7 @@ AI Infra / HPC systems. 这个页面只做路标；完整项目索引在
 - [trifuse](https://github.com/holtwood-systems/trifuse) — Triton 融合算子 + `torch.library`
 - [cuda-foundations](https://github.com/holtwood-systems/cuda-foundations) — CUDA 算子工程路径
 - [kvtier](https://github.com/holtwood-systems/kvtier) — KV cache tiering 实验
-- [race](https://github.com/holtwood-arena/race) — 性能工程竞赛实验室
+- [perf-race-lab](https://github.com/holtwood-arena/perf-race-lab) — 性能工程竞赛实验室
 
 ## 旧主线
 
@@ -36,5 +36,5 @@ AI Infra / HPC systems. 这个页面只做路标；完整项目索引在
 
 - [GitHub Profile](https://github.com/holtwood)
 - [项目总览](https://imshane.site/projects)
-- [仓库导航](https://github.com/holtwood/repos-db)
+- [仓库导航](https://github.com/holtwood/repo-registry)
 - [变更记录](CHANGELOG.md)

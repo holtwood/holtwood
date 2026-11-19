@@ -4,7 +4,7 @@
 
 ## 项目定位
 
-**GitHub Profile 主页仓库**（账号 `holtwood`，仓库名 `holtwood`）—— 个人主页与成果展示。前台只呈现身份、三个公开组织与代表项目；完整目录在 `repos-db`，项目总览在 `imshane.site/projects`。
+**GitHub Profile 主页仓库**（账号 `holtwood`，仓库名 `holtwood`）—— 个人主页与成果展示。前台只呈现身份、三个公开组织与代表项目；完整目录在 `repo-registry`，项目总览在 `imshane.site/projects`。
 
 - 主页：<https://github.com/holtwood>
 - Pages 站点：<https://holtwood.github.io/holtwood/>
